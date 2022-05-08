@@ -1,0 +1,46 @@
+.header {
+  text-align: center;
+}
+
+.mainTemplate-div {
+  display: flex;
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  max-width: 100vw;
+}
+
+.mainTemplate {
+  position: relative;
+  max-width: 100vw;
+  height: 749px;
+  object-fit: cover;
+}
+
+.mainTemplate-hero {
+  position: absolute;
+  width: 20rem;
+  top: 4rem;
+  z-index: 2;
+  max-width: 70vw;
+}
+
+.mainTemplate-name {
+  position: absolute;
+  width: 40rem;
+  top: 32rem;
+  max-width: 95vw;
+  z-index: 2;
+}
+
+.hero-fire {
+  position: absolute;
+  width: 35rem;
+  top: 0rem;
+  z-index: 1;
+  max-width: 100vw;
+}
+
+.line-break {
+  max-width: 90vw;
+}

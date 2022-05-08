@@ -1,0 +1,21 @@
+footer {
+  margin-top: 7.6rem;
+  background: transparent;
+  text-align: center;
+  padding: 2rem;
+}
+
+footer li {
+  display: inline;
+}
+
+footer p {
+  color: white;
+  margin-left: 2rem;
+}
+
+footer a {
+  text-decoration: none;
+  margin: 1rem;
+  color: white;
+}

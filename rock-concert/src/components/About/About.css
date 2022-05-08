@@ -1,0 +1,36 @@
+@media screen and (max-width: 600px) {
+  .wrapper .section-title {
+    font-size: 3rem;
+  }
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.about-wrapper {
+  margin: 3rem auto 1rem auto;
+  max-width: 40rem;
+  text-align: center;
+}
+
+.section-title {
+  color: rgb(80, 58, 58);
+  font-size: 5rem;
+  margin: 0rem;
+  max-width: 100vw;
+}
+
+.section-para {
+  color: rgb(46, 40, 40);
+  font-size: 1.3rem;
+}
+
+.about-line-break {
+  margin: 4rem auto;
+  max-width: 90vw;
+}
+
+.line-break-wrapper {
+  text-align: center;
+}
